@@ -13,7 +13,7 @@
 - 🚀 **Interests**: Data Analysis, Artificial Intelligence, and Software Development
 
 ## Projects
-- 🔗 **[SMart Drive Alert System]()**: This project aims to enhance road safety by monitoring drivers' stress, fatigue, and distractions. Using the Adafruit Circuit Playground Classic and Pulse sensor,
+- 🔗 **[SMart Drive Alert System](https://github.com/Bertin-Ir/SmartDriveAlertSystem)**: This project aims to enhance road safety by monitoring drivers' stress, fatigue, and distractions. Using the Adafruit Circuit Playground Classic and Pulse sensor,
   the system tracks heart rate variability (HRV) to assess the driver's mental and physical state. The system provides real-time alerts, helping to reduce the risk of accidents caused by driver stress and distractions.
 
 ## Let's Connect
