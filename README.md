@@ -12,7 +12,7 @@
 - 🖥️ **Programming Languages**: C, C++, Python, MATLAB
 - ⚙️ Technologies: HTML, CSS, Git/GitHub, Google Colab, Arduino
 - 📚 Libraries & Frameworks: Pandas, NumPy, Matplotlib
-- 🚀 **Interests**: Data Analysis, FinTech, Artificial Intelligence, and Software Development
+- 🚀 **Interests**: Data Science, FinTech, Artificial Intelligence, and Software Development
 
 ## Projects
 - 🔗 **[Library Catalog Management System](https://github.com/Bertin-Ir/lcms)**: A C++ application for organizing and managing book collections using hierarchical categories. It features custom data structures and algorithms for efficient cataloging, all accessible through an intuitive command-line interface.
