@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 I'm a student at **New York University Abu Dhabi**.
-- 👀 I’m interested in **software development**, **data science**, and **machine learning**.
+- 👀 I’m interested in **software development**, **FinTech**, **data science**, and **machine learning**.
 - 🌱 I’m currently learning **advanced algorithms** and **deep learning techniques**.
 - 💞️ I’m looking to collaborate on **open-source projects** and **innovative tech solutions**.
 - 😄 Pronouns: **He/Him**.
@@ -10,7 +10,9 @@
 
 ## Skills
 - 🖥️ **Programming Languages**: C, C++, Python, MATLAB
-- 🚀 **Interests**: Data Analysis, Artificial Intelligence, and Software Development
+- ⚙️ Technologies: HTML, CSS, Git/GitHub, Google Colab, Arduino
+- 📚 Libraries & Frameworks: Pandas, NumPy, Matplotlib
+- 🚀 **Interests**: Data Analysis, FinTech, Artificial Intelligence, and Software Development
 
 ## Projects
 - 🔗 **[Library Catalog Management System](https://github.com/Bertin-Ir/lcms)**: A C++ application for organizing and managing book collections using hierarchical categories. It features custom data structures and algorithms for efficient cataloging, all accessible through an intuitive command-line interface.
