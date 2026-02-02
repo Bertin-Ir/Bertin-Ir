@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 I'm a student at **New York University Abu Dhabi**.
-- 👀 I’m interested in **software development**, **FinTech**, **data science**, and **machine learning**.
+- 👀 I’m interested in **machine learning**, **data science**, **LLMs**, **FinTech**, and **software development**.
 - 🌱 I’m currently learning **advanced algorithms** and **deep learning techniques**.
 - 💞️ I’m looking to collaborate on **open-source projects** and **innovative tech solutions**.
 - 😄 Pronouns: **He/Him**.
