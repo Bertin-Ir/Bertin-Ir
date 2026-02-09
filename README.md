@@ -7,6 +7,7 @@
 - 💞️ I’m looking to collaborate on **open-source projects** and **innovative tech solutions**.
 - 😄 Pronouns: **He/Him**.
 - 📫 How to reach me: [email me](iradukundabertin01@gmail.com)
+- [Visit my personal website](https://personal-website-bertin.vercel.app/)
 
 ## Skills
 - 🖥️ **Programming Languages**: C, C++, Python, MATLAB
