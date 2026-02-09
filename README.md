@@ -26,6 +26,7 @@
 ## Let's Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/bertin-iradukunda-b14606250/)
 - ✉️ [Email](iradukundabertin01@gmail.com): Feel free to reach out!
+- 🌐 [bertin.com](https://personal-website-bertin.vercel.app/)
 
 ---
 
