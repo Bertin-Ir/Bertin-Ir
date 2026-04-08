@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 I'm a student at **New York University Abu Dhabi**.
-- 👀 I’m experience in **machine learning**, **deep learning**, **data science**, **LLMs**, **FinTech**, and **software development**.
+- 👀 I have experience in **machine learning**, **deep learning**, **data science**, **LLMs**, **FinTech**, and **software development**.
 - 💞️ I’m open for intership opportunities, to collaborate on **open-source projects** and  contribute to **innovative tech solutions**.
 - 😄 Pronouns: **He/Him**.
 - 📫 How to reach me: [email me](iradukundabertin01@gmail.com)
