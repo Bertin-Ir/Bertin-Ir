@@ -2,9 +2,8 @@
 
 ## About Me
 - 🎓 I'm a student at **New York University Abu Dhabi**.
-- 👀 I’m interested in **machine learning**, **data science**, **LLMs**, **FinTech**, and **software development**.
-- 🌱 I’m currently learning **advanced algorithms** and **deep learning techniques**.
-- 💞️ I’m looking to collaborate on **open-source projects** and **innovative tech solutions**.
+- 👀 I’m experience in **machine learning**, **deep learning**, **data science**, **LLMs**, **FinTech**, and **software development**.
+- 💞️ I’m open for intership opportunities, to collaborate on **open-source projects** and  contribute to **innovative tech solutions**.
 - 😄 Pronouns: **He/Him**.
 - 📫 How to reach me: [email me](iradukundabertin01@gmail.com)
 - [Visit my personal website](https://personal-website-bertin.vercel.app/)
