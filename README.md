@@ -5,7 +5,7 @@
 - 👀 I have experience in **machine learning**, **deep learning**, **data science**, **LLMs**, **FinTech**, and **software development**.
 - 💞️ I’m open for intership opportunities, to collaborate on **open-source projects** and  contribute to **innovative tech solutions**.
 - 😄 Pronouns: **He/Him**.
-- 📫 How to reach me: [email me](bi2067@nyu.edu)
+- 📫 How to reach me: [email me](mailto:bi2067@nyu.edu)
 - [Visit my personal website](https://personal-website-bertin.vercel.app/)
 
 ## Skills
