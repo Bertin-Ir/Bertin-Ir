@@ -11,7 +11,7 @@
 ## Skills
 - 🖥️ **Programming Languages**: C, C++, Python, MATLAB
 - ⚙️ Technologies: HTML, CSS, Git/GitHub, Google Colab, Arduino
-- 📚 Libraries & Frameworks: Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, PyTorch
+- 📚 Libraries & Frameworks: Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, PyTorch, Keras/TensorFlow
 - 🚀 **Interests**: Data Science, Machine learning, FinTech, Artificial Intelligence, and Software Development
 
 ## Projects
